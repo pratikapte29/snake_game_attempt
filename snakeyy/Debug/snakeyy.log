@@ -1,0 +1,5 @@
+﻿  snakeyy.cpp
+E:\C++projects\snakeyy\snakeyy.cpp(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++projects\snakeyy\snakeyy.cpp(97,13): warning C4553: '==': result of expression not used; did you intend '='?
+E:\C++projects\snakeyy\snakeyy.cpp(150,11): error C2065: 's': undeclared identifier
+E:\C++projects\snakeyy\snakeyy.cpp(151,4): error C2143: syntax error: missing ';' before 'case'
